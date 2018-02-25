@@ -1,0 +1,16 @@
+{
+  "name": "habier/jpg-resizer",
+  "description": "resizing with php gd",
+  "authors": [
+    {
+      "name": "Habier",
+      "email": "Habier@users.noreply.github.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Habier\\JPGResizer\\": "src/"
+    }
+  }
+}
